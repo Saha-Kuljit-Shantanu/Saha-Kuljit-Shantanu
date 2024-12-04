@@ -29,12 +29,12 @@ I'm Saha Kuljit Shantanu, currently studying CSE at Bangladesh University of Eng
 ## Frameworks
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/express.js-%23404d59?style=flat&logo=express) 
-</br>
 ![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat&logo=oracle)
 ![Sveltekit](https://img.shields.io/badge/-Sveltekit-000000?style=flat&logo=svelte)
 </br>
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=Tailwind%20CSS)
 
 
 ## Tools

@@ -32,7 +32,9 @@ I'm Saha Kuljit Shantanu, currently studying CSE at Bangladesh University of Eng
 </br>
 ![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat&logo=oracle)
 ![Sveltekit](https://img.shields.io/badge/-Sveltekit-000000?style=flat&logo=svelte)
+</br>
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 
 ## Tools
 

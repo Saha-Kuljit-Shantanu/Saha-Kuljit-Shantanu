@@ -44,7 +44,7 @@ I'm Saha Kuljit Shantanu, currently studying CSE at Bangladesh University of Eng
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visualstudio)<br />
 ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-000000?style=flat&logo=codeblocks)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)<br />
-![NetBeans](https://img.shields.io/badge/-NetBeans%20IDEA-000000?style=flat&logo=netbeans)
+![NetBeans](https://img.shields.io/badge/-NetBeans-000000?style=flat&logo=net%20beans)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 ![YARA](https://img.shields.io/badge/-YARA-000000?style=flat&logo=yara)<br />
 ![Autocad](https://img.shields.io/badge/-Autocad-000000?style=flat&logo=autocad)

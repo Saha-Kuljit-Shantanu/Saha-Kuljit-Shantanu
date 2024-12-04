@@ -35,6 +35,7 @@ I'm Saha Kuljit Shantanu, currently studying CSE at Bangladesh University of Eng
 </br>
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Logisim](https://img.shields.io/badge/-Logisim-000000?style=flat&logo=logisim)
 
 ## Tools
 

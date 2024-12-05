@@ -42,15 +42,16 @@ I'm Saha Kuljit Shantanu, currently studying CSE at Bangladesh University of Eng
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visualstudio)<br />
+![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visualstudio)
 ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-000000?style=flat&logo=codeblocks)
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)<br />
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![OverLeaf](https://img.shields.io/badge/-OverLeaf-000000?style=flat&logo=overleaf)<br />
 ![NetBeans](https://img.shields.io/badge/-NetBeans-000000?style=flat&logo=Apache%20NetBeans%20IDE)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
-![YARA](https://img.shields.io/badge/-YARA-000000?style=flat&logo=yara)<br />
+![YARA](https://img.shields.io/badge/-YARA-000000?style=flat&logo=yara)
+![LTSpice](https://img.shields.io/badge/-LTSpice-000000?style=flat&logo=LTSpice)
 ![Autocad](https://img.shields.io/badge/-Autocad-000000?style=flat&logo=autocad)
-![Logisim](https://img.shields.io/badge/-Logisim-000000?style=flat&logo=logisim)
-![OverLeaf](https://img.shields.io/badge/-OverLeaf-000000?style=flat&logo=overleaf)<br />
+![Logisim](https://img.shields.io/badge/-Logisim-000000?style=flat&logo=logisim)<br />
 
 
 ## Profile Overview

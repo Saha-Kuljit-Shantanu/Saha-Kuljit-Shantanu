@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Saha Kuljit Shantanu, currently studying CSE at Bangladesh University of Engineering and Technology as an undergraduate.
+I'm **Saha Kuljit Shantanu**, currently studying CSE at Bangladesh University of Engineering and Technology as an undergraduate.
 
 ## Languages
 

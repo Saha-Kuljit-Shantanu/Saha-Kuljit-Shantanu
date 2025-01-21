@@ -25,6 +25,7 @@ I'm **Saha Kuljit Shantanu**, currently studying CSE at Bangladesh University of
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
 ![LaTex](https://img.shields.io/badge/-LaTex-000000?style=flat&logo=latex)
 
 ## Frameworks

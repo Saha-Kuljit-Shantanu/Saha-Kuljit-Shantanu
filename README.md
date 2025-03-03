@@ -62,5 +62,5 @@ I'm **Saha Kuljit Shantanu**, currently studying CSE at Bangladesh University of
 
 ## Portfolio
 
-![Click Here](https://my-portfolio-one-sigma-71.vercel.app/)
+https://my-portfolio-one-sigma-71.vercel.app/
 
